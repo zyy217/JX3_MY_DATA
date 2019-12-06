@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
-  "data_url": "./data.jx3dat",
+  "name": "自用整合数据较多加载略慢",
+  "author": "zyy",
+  "version": "20191206",
+  "data_url": "./ziyong.jx3dat",
   "about": "../README.md"
 }
