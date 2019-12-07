@@ -1,7 +1,7 @@
 {
-  "name": "自用整合数据较多加载略慢",
+  "name": "整合数据自用",
   "author": "zyy",
-  "version": "20191206",
+  "version": "20191208",
   "data_url": "./ziyong.jx3dat",
   "about": "../README.md"
 }
